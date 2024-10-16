@@ -8,6 +8,9 @@ public class Simple {
 	 void m2(){
 			System.out.println("m2");
 		}
+	 void m4(){
+			System.out.println("m4");
+		}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
