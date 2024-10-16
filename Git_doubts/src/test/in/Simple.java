@@ -13,5 +13,7 @@ int b=20;
 int c=20;
 	}
 
-	
+	 void m3(){
+			System.out.println("m3");
+		}
 }
